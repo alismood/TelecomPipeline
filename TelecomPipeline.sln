@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelecomPipeline", "TelecomPipeline\TelecomPipeline.csproj", "{2132EC4D-7420-4ED4-87A1-E2BDFF931317}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelecomPipeline.Tests", "TelecomPipeline.Tests\TelecomPipeline.Tests.csproj", "{C5296E24-979E-4F1F-9045-EAA8CE95C454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2132EC4D-7420-4ED4-87A1-E2BDFF931317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2132EC4D-7420-4ED4-87A1-E2BDFF931317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2132EC4D-7420-4ED4-87A1-E2BDFF931317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2132EC4D-7420-4ED4-87A1-E2BDFF931317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5296E24-979E-4F1F-9045-EAA8CE95C454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5296E24-979E-4F1F-9045-EAA8CE95C454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5296E24-979E-4F1F-9045-EAA8CE95C454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5296E24-979E-4F1F-9045-EAA8CE95C454}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
